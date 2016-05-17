@@ -1,0 +1,16 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "lesson3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grace Han",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "superagent": "^1.8.3"
+  }
+}
